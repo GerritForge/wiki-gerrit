@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2b7cc895_2251cb77",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2020-12-16T10:15:36Z",
+      "side": 1,
+      "message": "Maybe we could add a couple of sections like: _what goes in here_ and _what doesn\u0027t go in here_  giving some examples.\n\n_what goes in here_ \n1. how to do a delta reindex (exploiting the manual override of `data/high-availability/changes`)\n2. Gerrit configuration healthcheck checklist  \n\n_what doesn\u0027t go in here_  \n1. documentation about the `data/high-availability/changes`, `data/high-availability/accounts`, etc internal files used by the HA \n2. Gerrit configuration parameters meaning\n\nThose are a couple examples that come in my mind. I can come up with other that could be topics we start adding.\n\nWDYT?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 66
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
