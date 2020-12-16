@@ -22,6 +22,30 @@
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "19f628c9_2c1cd8e5",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-16T10:23:59Z",
+      "side": 1,
+      "message": "Do you mean to actually adding those sections with content or to just provide the structure of for them?",
+      "parentUuid": "2b7cc895_2251cb77",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 66
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     }
   ]
 }
