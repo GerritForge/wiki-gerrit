@@ -1,7 +1,6 @@
 {
   "comments": [
     {
-      "unresolved": true,
       "key": {
         "uuid": "2b7cc895_2251cb77",
         "filename": "README.md",
@@ -21,10 +20,10 @@
         "endChar": 66
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
       "key": {
         "uuid": "19f628c9_2c1cd8e5",
         "filename": "README.md",
@@ -45,10 +44,10 @@
         "endChar": 66
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
       "key": {
         "uuid": "6766b454_673f6289",
         "filename": "README.md",
@@ -69,10 +68,10 @@
         "endChar": 66
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
       "key": {
         "uuid": "370636e2_c90593b2",
         "filename": "README.md",
@@ -93,10 +92,34 @@
         "endChar": 66
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "efd1e72c_43dd79ea",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "370636e2_c90593b2",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 66
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "5a84fc58_152bd993",
         "filename": "README.md",
@@ -116,10 +139,34 @@
         "endChar": 64
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "a56b3754_a009ea62",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a84fc58_152bd993",
+      "range": {
+        "startLine": 11,
+        "startChar": 29,
+        "endLine": 11,
+        "endChar": 64
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "f7c86166_dafef2e3",
         "filename": "README.md",
@@ -133,10 +180,28 @@
       "side": 1,
       "message": "You mentioned explicitly gerrit ecosystem, but may be also mention gerrit core and also gerrit plugins?",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "8f124475_3d7141d2",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f7c86166_dafef2e3",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "455478ca_dd1d37b6",
         "filename": "README.md",
@@ -150,10 +215,28 @@
       "side": 1,
       "message": "Should this be in the CONTRIBUTING.md, see an example at:\nhttps://github.com/jenkinsci/jenkins/blob/master/CONTRIBUTING.md",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "ac99e5f2_ed70ea50",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "455478ca_dd1d37b6",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "d75f0cbf_6036e360",
         "filename": "README.md",
@@ -173,10 +256,34 @@
         "endChar": 47
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "054d976f_500e667a",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d75f0cbf_6036e360",
+      "range": {
+        "startLine": 19,
+        "startChar": 31,
+        "endLine": 19,
+        "endChar": 47
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "5112d9cd_814f5ead",
         "filename": "README.md",
@@ -196,10 +303,34 @@
         "endChar": 3
       },
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "3c156df3_6184d9c5",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5112d9cd_814f5ead",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 3
+      },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "caec5586_de2e4c3c",
         "filename": "README.md",
@@ -213,10 +344,28 @@
       "side": 1,
       "message": "Should this be a LICENSE.txt file in the repository?",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
     },
     {
-      "unresolved": true,
+      "key": {
+        "uuid": "36a165ed_95498f83",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "There\u0027s already a LICENCE file in the repository.\nI will just delete this section.",
+      "parentUuid": "caec5586_de2e4c3c",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
       "key": {
         "uuid": "56650b48_7ad1c619",
         "filename": "README.md",
@@ -230,7 +379,26 @@
       "side": 1,
       "message": "Nice.",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ee13e362_7dab3832",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T11:05:42Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "56650b48_7ad1c619",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
