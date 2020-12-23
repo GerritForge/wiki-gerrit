@@ -138,6 +138,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "455478ca_dd1d37b6",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-23T10:13:27Z",
+      "side": 1,
+      "message": "Should this be in the CONTRIBUTING.md, see an example at:\nhttps://github.com/jenkinsci/jenkins/blob/master/CONTRIBUTING.md",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d75f0cbf_6036e360",
         "filename": "README.md",
         "patchSetId": 2
@@ -178,6 +195,23 @@
         "endLine": 34,
         "endChar": 3
       },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "caec5586_de2e4c3c",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-23T10:13:27Z",
+      "side": 1,
+      "message": "Should this be a LICENSE.txt file in the repository?",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
