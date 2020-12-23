@@ -1,7 +1,6 @@
 {
   "comments": [
     {
-      "unresolved": false,
       "key": {
         "uuid": "53a2f789_26298e4e",
         "filename": "/PATCHSET_LEVEL",
@@ -15,7 +14,26 @@
       "side": 1,
       "message": "Should each topic be in a different page? If I were to add for example \"delta reindexing with HA\" should it go in a new page and then we will add an index page?",
       "revId": "22776891e7dd5c1d4ad822154e10bc9ed4a93bbf",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "11e11a97_8c6d0ddd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-23T14:12:21Z",
+      "side": 1,
+      "message": "Good question, I am not sure 😊\nI guess we will discuss about it with the first contribution review",
+      "parentUuid": "53a2f789_26298e4e",
+      "revId": "22776891e7dd5c1d4ad822154e10bc9ed4a93bbf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
