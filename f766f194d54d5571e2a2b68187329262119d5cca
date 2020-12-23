@@ -121,6 +121,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f7c86166_dafef2e3",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000177
+      },
+      "writtenOn": "2020-12-23T10:00:23Z",
+      "side": 1,
+      "message": "You mentioned explicitly gerrit ecosystem, but may be also mention gerrit core and also gerrit plugins?",
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d75f0cbf_6036e360",
         "filename": "README.md",
         "patchSetId": 2
@@ -161,6 +178,23 @@
         "endLine": 34,
         "endChar": 3
       },
+      "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "56650b48_7ad1c619",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1000177
+      },
+      "writtenOn": "2020-12-23T10:00:23Z",
+      "side": 1,
+      "message": "Nice.",
       "revId": "f766f194d54d5571e2a2b68187329262119d5cca",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
