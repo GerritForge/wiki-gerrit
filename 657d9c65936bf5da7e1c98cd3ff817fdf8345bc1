@@ -16,6 +16,207 @@
       "message": "This change will arise some questions I think, let me know what do you think:\n1) do we need an index for the added topics?\n2) should we have a new file per each topic?\n3) does the topic need to be explained in a standard way (i.e.: I used 3 sections When-Why-How)?\n4) Does the title of the file need to match the title of the content?\n5) Do we need a structure for the titles (i.e.: \"plugin-name: trick we are explaining\")?\n\nI have addressed some of them with my implementation,. let me know WDYT? \n",
       "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f209cd1a_ea99e313",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "Isn\u0027t this usually dealt with by the `init` step?",
+      "range": {
+        "startLine": 6,
+        "startChar": 24,
+        "endLine": 6,
+        "endChar": 53
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "284a3780_4e9eef9e",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "misalignment",
+      "range": {
+        "startLine": 7,
+        "startChar": 8,
+        "endLine": 7,
+        "endChar": 23
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1f77bd1_38d5a992",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "for a big Gerrit installation.",
+      "range": {
+        "startLine": 11,
+        "startChar": 48,
+        "endLine": 11,
+        "endChar": 75
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc15d096_6261542e",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "_The_ reindexing operation",
+      "range": {
+        "startLine": 12,
+        "startChar": 69,
+        "endLine": 12,
+        "endChar": 79
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "130b30f5_e6916cc2",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "Shall we provide the tar command to do this?",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 73
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2a3f2fa3_f887de4b",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "I am not sure I follow: if we copy indexes from node1 to node2, aren\u0027t they already aligned?\nnode1 is RO, so no new changes will be created in the meanwhile.",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 60
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cec067ec_8e3ad104",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "What happens to the node2 pre-existing index files?\nShould they be removed or moved somewhere first?",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 60
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e6166946_7bd4487d",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "We never put back node1 in RW",
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad709557_8bcacb8e",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1015244
+      },
+      "writtenOn": "2020-12-28T10:32:41Z",
+      "side": 1,
+      "message": "the two",
+      "range": {
+        "startLine": 36,
+        "startChar": 29,
+        "endLine": 36,
+        "endChar": 35
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
