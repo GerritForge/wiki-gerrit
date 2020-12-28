@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7659a8ee_25e319d0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2020-12-28T09:00:56Z",
+      "side": 1,
+      "message": "This change will arise some questions I think, let me know what do you think:\n1) do we need an index for the added topics?\n2) should we have a new file per each topic?\n3) does the topic need to be explained in a standard way (i.e.: I used 3 sections When-Why-How)?\n4) Does the title of the file need to match the title of the content?\n5) Do we need a structure for the titles (i.e.: \"plugin-name: trick we are explaining\")?\n\nI have addressed some of them with my implementation,. let me know WDYT? \n",
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
