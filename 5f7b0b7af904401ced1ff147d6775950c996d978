@@ -92,6 +92,30 @@
       },
       "revId": "5f7b0b7af904401ced1ff147d6775950c996d978",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "406f1cd4_28edd397",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-29T12:07:25Z",
+      "side": 1,
+      "message": "Let me find a pointer in Gerrit where we explain what is the structure of the plugins’ docs. I’ll then point to it from here.",
+      "parentUuid": "09f95b8b_c54675fe",
+      "range": {
+        "startLine": 30,
+        "startChar": 3,
+        "endLine": 32,
+        "endChar": 58
+      },
+      "revId": "5f7b0b7af904401ced1ff147d6775950c996d978",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
