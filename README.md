@@ -13,19 +13,24 @@ easier to find, to consume, and, where possible, to integrate it with
 gotchas, explanations and experiences that might go beyond the realm of Gerrit
 alone.
 
-# Examples of appropriate subjects
+# Sample uses of the Wiki
 
-1. how to perform a delta reindex (exploiting the manual override of
-   `data/high-availability/changes`)
-2. Gerrit configuration health-check checklist
-3. How to bind to LDAP and perform a query using `ldapsearch`
+## Content that should be in Gerrit or plugins' docs and pointed from the Wiki
 
-# Examples of inappropriate subjects
+1. how to perform a delta reindex, pointing to the high-availability plugin
+   documentation on how to exploit the manual override of `data/high-availability/changes`
 
-1. Documenting file stored by the high-availability plugin
-2. Documenting Gerrit configuration parameters
-3. Explaining how to setup multi-site
+## Content that is typically included in the Wiki
 
+1. Gerrit configuration health-check checklist
+2. How to bind to LDAP and perform a query using `ldapsearch`
 
+## Content that should not be included in the Wiki
 
+1. Copy and paste of existing Gerrit or plugins' documentation
+2. Fixes or addendum to existing Gerrit documentation or tools
+3. Explaining how to setup Gerrit or any of its components
 
+Refer to [Gerrit documentation](https://gerrit-documentation.storage.googleapis.com/Documentation/3.3.1/index.html)
+and the [plugin development guide documentation guidelines](https://gerrit-documentation.storage.googleapis.com/Documentation/3.3.1/dev-plugins.html)
+for more details.
