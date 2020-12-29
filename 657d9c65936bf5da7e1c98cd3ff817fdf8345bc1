@@ -36,6 +36,23 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e238fbae_202399aa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-29T00:01:16Z",
+      "side": 1,
+      "message": "Thanks, Ponch, for the contribution.\nI do feel that this should be part of the high-availability plugin documentation: what do you think?",
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f209cd1a_ea99e313",
