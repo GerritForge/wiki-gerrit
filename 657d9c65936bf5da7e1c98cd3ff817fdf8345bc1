@@ -78,6 +78,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "b30eb082_e6acf8eb",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "You might want to do it on one node only to save time",
+      "parentUuid": "f209cd1a_ea99e313",
+      "range": {
+        "startLine": 6,
+        "startChar": 24,
+        "endLine": 6,
+        "endChar": 53
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "284a3780_4e9eef9e",
         "filename": "HA-PLUGIN-DELTA-REINDEX.md",
         "patchSetId": 1
@@ -89,6 +113,30 @@
       "writtenOn": "2020-12-28T10:32:41Z",
       "side": 1,
       "message": "misalignment",
+      "range": {
+        "startLine": 7,
+        "startChar": 8,
+        "endLine": 7,
+        "endChar": 23
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea4f1756_3700abbb",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "284a3780_4e9eef9e",
       "range": {
         "startLine": 7,
         "startChar": 8,
@@ -122,6 +170,30 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d9407bf5_adb028a4",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c1f77bd1_38d5a992",
+      "range": {
+        "startLine": 11,
+        "startChar": 48,
+        "endLine": 11,
+        "endChar": 75
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bc15d096_6261542e",
@@ -145,6 +217,30 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "46a5a10a_ae70fbeb",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bc15d096_6261542e",
+      "range": {
+        "startLine": 12,
+        "startChar": 69,
+        "endLine": 12,
+        "endChar": 79
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "130b30f5_e6916cc2",
@@ -158,6 +254,30 @@
       "writtenOn": "2020-12-28T10:32:41Z",
       "side": 1,
       "message": "Shall we provide the tar command to do this?",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 73
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a75a6d91_8ef88d32",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "130b30f5_e6916cc2",
       "range": {
         "startLine": 22,
         "startChar": 0,
@@ -214,6 +334,54 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba664bf1_5a0e8a51",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cec067ec_8e3ad104",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 60
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b04abce4_9304c437",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "the node has been moved to RW in the meanwhile",
+      "parentUuid": "2a3f2fa3_f887de4b",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 60
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e6166946_7bd4487d",
@@ -233,6 +401,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c647bb77_d86829db",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "done in a previous step...see next change",
+      "parentUuid": "e6166946_7bd4487d",
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ad709557_8bcacb8e",
         "filename": "HA-PLUGIN-DELTA-REINDEX.md",
         "patchSetId": 1
@@ -244,6 +430,30 @@
       "writtenOn": "2020-12-28T10:32:41Z",
       "side": 1,
       "message": "the two",
+      "range": {
+        "startLine": 36,
+        "startChar": 29,
+        "endLine": 36,
+        "endChar": 35
+      },
+      "revId": "657d9c65936bf5da7e1c98cd3ff817fdf8345bc1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "88b756d5_d6f861c6",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:25:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ad709557_8bcacb8e",
       "range": {
         "startLine": 36,
         "startChar": 29,
