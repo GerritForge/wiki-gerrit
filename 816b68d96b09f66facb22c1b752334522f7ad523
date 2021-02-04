@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b0ed552_3d8171c0",
+        "filename": "HA-PLUGIN-DELTA-REINDEX.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1012541
+      },
+      "writtenOn": "2021-02-04T18:28:23Z",
+      "side": 1,
+      "message": "this should probably point to master, butt we didn\u0027t merge the documentation yet in master.",
+      "range": {
+        "startLine": 29,
+        "startChar": 130,
+        "endLine": 29,
+        "endChar": 140
+      },
+      "revId": "816b68d96b09f66facb22c1b752334522f7ad523",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
