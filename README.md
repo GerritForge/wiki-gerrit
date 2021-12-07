@@ -1,4 +1,3 @@
-# Introduction
 
 This repository is meant to collect common knowledge related to the [Gerrit Code
 Review tool](https://www.gerritcodereview.com/), as well as the ecosystem of
